@@ -1,0 +1,2 @@
+1.使用 ls --show-control-chars 命令来强制使用控制台字符编码显示文件名
+2.解决方案：在bash提示符下输入： git config --global core.quotepath false
